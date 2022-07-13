@@ -1,0 +1,30 @@
+section.places
+{
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  z-index: -100;
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+section.places h1
+{
+  text-align: left;
+}
+
+section.places article
+{
+  display: inline-block;
+  width: 390px;
+  border: 1px solid #FF5A5F;
+  border-radius: 4px;
+  padding: 20px;
+  margin:20px;
+}
+
+section.places article h2
+{
+  font-size: 30px;
+  text-align: center;
+}

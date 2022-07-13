@@ -1,21 +1,7 @@
-Common {
+body {
   margin: 0 ;
   padding: 0;
   color: #484848;
   font-size: 14px;
-  font-family: Circular, Helvetica Neue, Arial, sans-serif;}
-
-Header {
-  color: white;
-  height: 70px;
-  width: 100%;
-  border-bottom: 1px #CCCCCC;
-  "logo":}
-
-Footer {
-  color: white;
-  height: 60px;
-  width: 100%;
-  border-top: 1px #CCCCCC;
-  
-
+  font-family: Circular, "Helvetica Neue", Arial, sans-serif;
+}
